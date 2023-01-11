@@ -1,0 +1,35 @@
+.pay-links-card-container {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.pay-links-card-pay-links {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-twounits);
+  align-items: center;
+  flex-direction: column;
+}
+.pay-links-card-pay-links-icon {
+  width: 54px;
+  height: 54px;
+}
+.pay-links-card-pay-links1 {
+  font-style: normal;
+  margin-top: var(--dl-space-space-unit);
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.pay-links-card-feature {
+  color: var(--dl-color-gray-700);
+  text-align: center;
+}
+.pay-links-card-read-more {
+  font-size: 0.75rem;
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 500;
+}
